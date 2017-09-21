@@ -6,6 +6,10 @@ else
 	puts "Too little,  too much."
 end
 
+# These are some comments from the future.
+# They only live in the future, you can't see me, people in the past.
+
+
 # choice = "cash"
 
 # if choice == "cash" || choice == "credit"
